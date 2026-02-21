@@ -56,4 +56,7 @@ for (let i = 1; i <= 5; i++) {
 
   console.log("Number:", num);
 
-// I will eventually understand all of this but for now im just trying to get the syntax down and understand the flow of the code. I know that nested loops can be tricky but I will keep practicing and eventually it will click. Overall, this was a good exercise to get more comfortable with loops and conditionals in JavaScript.
+// I will eventually understand all of this but for now im just trying to get the 
+// syntax down and understand the flow of the code. I know that nested loops can be 
+// tricky but I will keep practicing and eventually it will click. Overall, this was
+//  a good exercise to get more comfortable with loops and conditionals in JavaScript.
