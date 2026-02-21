@@ -5,7 +5,7 @@
 // Commit 3: "refactored variable names for clarity"
 
 
-for (let i = 2; 2 < 5; 2++) {
-  console.log(2 * 2);
-  }
-
+// Print the first 10 even numbers (0 through 18)
+for (let evenIndex = 0; evenIndex < 10; evenIndex++) {
+  console.log(2 * evenIndex);
+}
